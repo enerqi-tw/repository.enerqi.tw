@@ -39,15 +39,6 @@
       "system": false,
       "rating": 5,
       "reviews": 1000
-    },
-    {
-      "name": "Azure Blob 儲存體",
-      "icon": "FolderOutlined",
-      "description": "Azure Blob 儲存體提供彈性且高效能的物件儲存解決方案，適用於各種應用程式需求。",
-      "url": "https://azure-blob-storage.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
     }
   ],
   "快閃記憶體": [
