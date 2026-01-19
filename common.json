@@ -61,7 +61,16 @@
       "system": false,
       "rating": 5,
       "reviews": 1000
-    }
+    },
+    {
+      "name": "瀏覽器資料庫",
+      "icon": "CloudOutlined",
+      "description": "使用瀏覽器內建的資料庫功能。",
+      "url": "https://database-browser.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
   ],
   "虛擬化": [
     {
