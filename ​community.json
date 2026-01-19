@@ -117,15 +117,6 @@
   ],
   "檔案儲存": [
     {
-      "name": "瀏覽器檔案儲存",
-      "icon": "FolderOutlined",
-      "description": "使用瀏覽器內建的檔案儲存功能。",
-      "url": "https://storage-browser.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
-    },
-    {
       "name": "Azure Blob 儲存體",
       "icon": "FolderOutlined",
       "description": "Azure Blob 儲存體提供彈性且高效能的物件儲存解決方案，適用於各種應用程式需求。",
@@ -156,15 +147,6 @@
     }
   ],
   "資料庫": [
-    {
-      "name": "瀏覽器資料庫",
-      "icon": "CloudOutlined",
-      "description": "使用瀏覽器內建的資料庫功能。",
-      "url": "https://database-browser.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
-    },
     {
       "name": "Cloudflare D1",
       "icon": "https://global.discourse-cdn.com/cloudflare/optimized/3X/1/7/17ff924eb2ddf1bfb70036aabc46328510dc9377_2_500x500.png",
