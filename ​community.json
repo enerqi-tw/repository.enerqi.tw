@@ -1,0 +1,219 @@
+{
+  "生產力": [
+    {
+      "name": "Microsoft Word",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/960px-Microsoft_Word_2013-2019_logo.svg.png?20221202081051",
+      "description": "輕鬆建立與編輯專業文件。",
+      "url": "https://ms-word.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/960px-Microsoft_PowerPoint_2013-2019_logo.svg.png?20221202081054",
+      "description": "設計精美的簡報與投影片。",
+      "url": "https://ms-powerpoint.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Microsoft Excel",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png?20221202081052",
+      "description": "有效分析與視覺化您的資料。",
+      "url": "https://ms-excel.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Google Docs",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/640px-Google_Docs_logo_%282014-2020%29.svg.png",
+      "description": "即時在線協作文件。",
+      "url": "https://google-docs.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Google Sheets",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/640px-Google_Sheets_logo_%282014-2020%29.svg.png",
+      "description": "在線管理與分析電子表格。",
+      "url": "https://google-sheets.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Google Slides",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/640px-Google_Slides_logo_%282014-2020%29.svg.png",
+      "description": "在線協作製作簡報。",
+      "url": "https://google-slides.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "娛樂": [
+    {
+      "name": "影片庫",
+      "icon": "VideoCameraOutlined",
+      "description": "瀏覽與觀看各種影片內容。",
+      "url": "https://video-gallery.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "工具": [
+    {
+      "name": "VideoJs 影片播放器",
+      "icon": "VideoCameraOutlined",
+      "description": "一個功能強大的網頁影片播放器，支援多種格式與自訂化選項。",
+      "url": "https://videojs.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "南一電子書",
+      "icon": "https://onebox2.oneclass.com.tw/assets/logoWeb.b62490b5.svg",
+      "description": "提供南一光碟內所有資源的線上瀏覽與下載服務。",
+      "url": "https://nanibox.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "康軒電子書",
+      "icon": "https://digitalmaster.knsh.com.tw/v3/images/logo.png",
+      "description": "提供康軒光碟內所有資源的線上瀏覽與下載服務。",
+      "url": "https://knsh.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name":"出任務",
+      "icon":"https://www.tasker.com.tw/img/favicon/apple-touch-icon.png",
+      "description":"出任務 | 數位專業人才聚集地，專為數位外包領域的接案專家打造，提供最新、最完整的接案案件資訊。立即瀏覽軟體開發類案件，開始您的接案之旅！",
+      "url":"https://tasker.application.enerqi.tw",
+      "system":false,
+      "rating":5,
+      "reviews":1000
+    }
+  ],
+  "網頁瀏覽器": [
+    {
+      "name": "Chrome 瀏覽器",
+      "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png",
+      "description": "快速且安全的網頁瀏覽器。",
+      "url": "https://chrome.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "檔案儲存": [
+    {
+      "name": "瀏覽器檔案儲存",
+      "icon": "FolderOutlined",
+      "description": "使用瀏覽器內建的檔案儲存功能。",
+      "url": "https://storage-browser.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Azure Blob 儲存體",
+      "icon": "FolderOutlined",
+      "description": "Azure Blob 儲存體提供彈性且高效能的物件儲存解決方案，適用於各種應用程式需求。",
+      "url": "https://azure-blob-storage.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "快閃記憶體": [
+    {
+      "name": "Redis",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_x7ZXhCnf9Nng3sCvAZWBZ5nWWSbhzp-2A&s",
+      "description": "Redis 提供高效能的分散式快取解決方案，提升應用程式的回應速度和可擴展性。",
+      "url": "https://redis-cache.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Azure Redis Cache",
+      "icon": "https://azure.microsoft.com/svghandler/cache/?width=600&amp;height=315",
+      "description": "Azure Redis Cache 提供高效能的分散式快取解決方案，提升應用程式的回應速度和可擴展性。",
+      "url": "https://azure-redis-cache.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "資料庫": [
+    {
+      "name": "瀏覽器資料庫",
+      "icon": "CloudOutlined",
+      "description": "使用瀏覽器內建的資料庫功能。",
+      "url": "https://database-browser.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Cloudflare D1",
+      "icon": "https://global.discourse-cdn.com/cloudflare/optimized/3X/1/7/17ff924eb2ddf1bfb70036aabc46328510dc9377_2_500x500.png",
+      "description": "Cloudflare D1 是一個輕量級的關聯式資料庫，專為邊緣運算設計，提供快速且可靠的資料存取。",
+      "url": "https://cloudflare-d1.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Azure Database for MySQL",
+      "icon": "https://cdn.buttercms.com/J1MWNM9QnCDvLNE6OZK4",
+      "description": "Azure Database for MySQL 提供可擴展且高可用性的 MySQL 資料庫服務，適用於各種應用程式需求。",
+      "url": "https://azure-mysql-database.application.enerqi.tw",
+      "system": false
+    },
+    {
+      "name": "Azure Database for PostgreSQL",
+      "icon": "https://pbs.twimg.com/profile_images/1295791157570543617/il44pFSC_400x400.png",
+      "description": "Azure Database for PostgreSQL 提供可擴展且高可用性的 PostgreSQL 資料庫服務，適用於各種應用程式需求。",
+      "url": "https://azure-postgresql-database.application.enerqi.tw",
+      "system": false
+    },
+    {
+      "name": "Azure SQL Database",
+      "icon": "https://devblogs.microsoft.com/azure-sql/wp-content/uploads/sites/56/2020/04/sql-database-3-560.png",
+      "description": "Azure SQL Database 提供可擴展且高可用性的 SQL 資料庫服務，適用於各種應用程式需求。",
+      "url": "https://azure-sql-database.application.enerqi.tw",
+      "system": false
+    }
+  ],
+  "虛擬化": [
+    {
+      "name": "Docker",
+      "icon": "https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png",
+      "description": "Docker 提供輕量級的容器化解決方案，讓應用程式能夠在隔離的環境中運行，提升部署效率與可攜性。",
+      "url": "https://docker.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Azure Virtual Machines",
+      "icon": "",
+      "description": "Azure Virtual Machines 提供可擴展且高效能的虛擬機器服務，適用於各種應用程式需求。",
+      "url": "https://azure-virtual-machines.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ]
+}
