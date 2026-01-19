@@ -1,0 +1,162 @@
+{
+  "工具": [
+    {
+      "name": "計算器",
+      "icon": "CalculatorOutlined",
+      "description": "一個簡單易用的計算器應用程式。",
+      "url": "https://calculator.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "行業": [
+    {
+      "name": "餐廳",
+      "icon": "TruckOutlined",
+      "description": "管理訂單、銷售流程與交易，支持線上與線下銷售，包含電子商務與 POS 整合。",
+      "url": "https://pos.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "檔案儲存": [
+    {
+      "name": "Enerqi 無伺服器檔案儲存",
+      "icon": "CloudOutlined",
+      "description": "Enerqi 無伺服器檔案儲存提供彈性且高效能的檔案儲存解決方案，適用於各種應用程式需求。",
+      "url": "https://enerqi-storage.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "瀏覽器檔案儲存",
+      "icon": "FolderOutlined",
+      "description": "使用瀏覽器內建的檔案儲存功能。",
+      "url": "https://storage-browser.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Azure Blob 儲存體",
+      "icon": "FolderOutlined",
+      "description": "Azure Blob 儲存體提供彈性且高效能的物件儲存解決方案，適用於各種應用程式需求。",
+      "url": "https://azure-blob-storage.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "快閃記憶體": [
+    {
+      "name": "Enerqi 無伺服器快取",
+      "icon": "CloudOutlined",
+      "description": "Enerqi 無伺服器快取提供高效能的分散式快取解決方案，提升應用程式的回應速度和可擴展性。",
+      "url": "https://enerqi-cache.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+  ],
+  "資料庫": [
+    {
+      "name": "Enerqi 無伺服器資料庫",
+      "icon": "CloudOutlined",
+      "description": "Enerqi 無伺服器資料庫提供彈性且高效能的資料庫解決方案，適用於各種應用程式需求。",
+      "url": "https://enerqi-database.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+  ],
+  "虛擬化": [
+    {
+      "name": "Enerqi 無伺服器虛擬化平台",
+      "icon": "CloudOutlined",
+      "description": "Enerqi 無伺服器虛擬化平台提供彈性且高效能的虛擬化解決方案，適用於各種應用程式需求。",
+      "url": "https://enerqi-virtualization.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+  ],
+  "系統": [
+    {
+      "name": "鎖定畫面",
+      "icon": "LockOutlined",
+      "description": "鎖定您的裝置以保護您的資料安全。",
+      "url": "https://lock.application.enerqi.tw",
+      "system": true,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "壁紙",
+      "icon": "PictureOutlined",
+      "description": "管理您的壁紙設定與圖片。",
+      "url": "https://desktop.application.enerqi.tw",
+      "system": true,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "設定",
+      "icon": "SettingOutlined",
+      "description": "調整系統與應用程式的各項設定。",
+      "url": "https://settings.application.enerqi.tw",
+      "system": true,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "檔案總管",
+      "icon": "FolderOpenOutlined",
+      "description": "瀏覽與管理您的檔案與資料夾。",
+      "url": "https://folder.application.enerqi.tw",
+      "system": true,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "應用程式商店",
+      "icon": "ShopOutlined",
+      "description": "瀏覽與安裝各種應用程式。",
+      "url": "https://apps.application.enerqi.tw",
+      "system": true,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "訂閱管理",
+      "icon": "CreditCardOutlined",
+      "description": "管理您的訂閱與付款資訊。",
+      "url": "https://subscription.application.enerqi.tw",
+      "system": true,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ],
+  "桌面小工具": [
+    {
+      "name": "通知小工具",
+      "icon": "NotificationOutlined",
+      "description": "管理您的通知設定與訊息。",
+      "url": "https://notification.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "Dock 小工具",
+      "icon": "BarsOutlined",
+      "description": "快速存取常用應用程式與功能。",
+      "url": "https://dock.application.enerqi.tw",
+      "system": true,
+      "rating": 5,
+      "reviews": 1000
+    }
+  ]
+}
