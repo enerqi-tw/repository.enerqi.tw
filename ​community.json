@@ -95,13 +95,22 @@
       "reviews": 1000
     },
     {
-      "name":"出任務",
-      "icon":"https://www.tasker.com.tw/img/favicon/apple-touch-icon.png",
-      "description":"出任務 | 數位專業人才聚集地，專為數位外包領域的接案專家打造，提供最新、最完整的接案案件資訊。立即瀏覽軟體開發類案件，開始您的接案之旅！",
-      "url":"https://tasker.application.enerqi.tw",
-      "system":false,
-      "rating":5,
-      "reviews":1000
+      "name": "出任務",
+      "icon": "https://www.tasker.com.tw/img/favicon/apple-touch-icon.png",
+      "description": "出任務 | 數位專業人才聚集地，專為數位外包領域的接案專家打造，提供最新、最完整的接案案件資訊。立即瀏覽軟體開發類案件，開始您的接案之旅！",
+      "url": "https://tasker.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
+    },
+    {
+      "name": "GitHub",
+      "icon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "GitHub 是全球最大的程式碼託管平台，提供版本控制和協作功能，讓開發者能夠輕鬆管理和分享程式碼。",
+      "url": "https://github.application.enerqi.tw",
+      "system": false,
+      "rating": 5,
+      "reviews": 1000
     }
   ],
   "網頁瀏覽器": [
