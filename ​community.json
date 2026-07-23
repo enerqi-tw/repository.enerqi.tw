@@ -37,33 +37,7 @@
       "url": "https://google-slides.application.enerqi.tw"
     }
   ],
-  "娛樂": [
-    {
-      "name": "影片庫",
-      "description": "瀏覽與觀看各種影片內容。",
-      "icon": "VideoCameraOutlined",
-      "url": "https://video-gallery.application.enerqi.tw"
-    }
-  ],
   "工具": [
-    {
-      "name": "VideoJs 影片播放器",
-      "description": "一個功能強大的網頁影片播放器，支援多種格式與自訂化選項。",
-      "icon": "VideoCameraOutlined",
-      "url": "https://videojs.application.enerqi.tw"
-    },
-    {
-      "name": "南一電子書",
-      "description": "提供南一光碟內所有資源的線上瀏覽與下載服務。",
-      "icon": "https://onebox2.oneclass.com.tw/assets/logoWeb.b62490b5.svg",
-      "url": "https://nanibox.application.enerqi.tw"
-    },
-    {
-      "name": "康軒電子書",
-      "description": "提供康軒光碟內所有資源的線上瀏覽與下載服務。",
-      "icon": "https://digitalmaster.knsh.com.tw/v3/images/logo.png",
-      "url": "https://knsh.application.enerqi.tw"
-    },
     {
       "name": "出任務",
       "description": "出任務 | 數位專業人才聚集地，專為數位外包領域的接案專家打造，提供最新、最完整的接案案件資訊。立即瀏覽軟體開發類案件，開始您的接案之旅！",
@@ -76,14 +50,6 @@
       "icon": "https://github.githubassets.com/favicons/favicon.png",
       "url": "https://github.application.enerqi.tw",
       "group": "developer"
-    }
-  ],
-  "網頁瀏覽器": [
-    {
-      "name": "Chrome 瀏覽器",
-      "description": "快速且安全的網頁瀏覽器。",
-      "icon": "https://www.google.com/chrome/static/images/favicons/favicon-96x96.png",
-      "url": "https://chrome.application.enerqi.tw"
     }
   ],
   "檔案儲存": [
