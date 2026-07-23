@@ -2,161 +2,134 @@
   "工具": [
     {
       "name": "計算器",
-      "icon": "CalculatorOutlined",
       "description": "一個簡單易用的計算器應用程式。",
-      "url": "https://calculator.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "icon": "CalculatorOutlined",
+      "url": "https://calculator.application.enerqi.tw"
     }
   ],
   "行業": [
     {
       "name": "餐廳",
-      "icon": "TruckOutlined",
       "description": "管理訂單、銷售流程與交易，支持線上與線下銷售，包含電子商務與 POS 整合。",
-      "url": "https://pos.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "icon": "TruckOutlined",
+      "url": "https://pos.application.enerqi.tw"
     }
   ],
   "檔案儲存": [
     {
       "name": "Enerqi 無伺服器檔案儲存",
-      "icon": "CloudOutlined",
       "description": "Enerqi 無伺服器檔案儲存提供彈性且高效能的檔案儲存解決方案，適用於各種應用程式需求。",
+      "icon": "CloudOutlined",
       "url": "https://enerqi-storage.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer"
     },
     {
       "name": "瀏覽器檔案儲存",
-      "icon": "FolderOutlined",
       "description": "使用瀏覽器內建的檔案儲存功能。",
+      "icon": "FolderOutlined",
       "url": "https://storage-browser.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer"
     }
   ],
   "快閃記憶體": [
     {
       "name": "Enerqi 無伺服器快取",
-      "icon": "CloudOutlined",
       "description": "Enerqi 無伺服器快取提供高效能的分散式快取解決方案，提升應用程式的回應速度和可擴展性。",
+      "icon": "CloudOutlined",
       "url": "https://enerqi-cache.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer"
     }
   ],
   "資料庫": [
     {
       "name": "Enerqi 無伺服器資料庫",
-      "icon": "CloudOutlined",
       "description": "Enerqi 無伺服器資料庫提供彈性且高效能的資料庫解決方案，適用於各種應用程式需求。",
+      "icon": "CloudOutlined",
       "url": "https://enerqi-database.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer"
     },
     {
       "name": "瀏覽器資料庫",
-      "icon": "CloudOutlined",
       "description": "使用瀏覽器內建的資料庫功能。",
+      "icon": "CloudOutlined",
       "url": "https://database-browser.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer"
     }
   ],
   "虛擬化": [
     {
       "name": "Enerqi 無伺服器虛擬化平台",
-      "icon": "CloudOutlined",
       "description": "Enerqi 無伺服器虛擬化平台提供彈性且高效能的虛擬化解決方案，適用於各種應用程式需求。",
+      "icon": "CloudOutlined",
       "url": "https://enerqi-virtualization.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer"
     }
   ],
   "系統": [
     {
       "name": "鎖定畫面",
-      "icon": "LockOutlined",
       "description": "鎖定您的裝置以保護您的資料安全。",
+      "icon": "LockOutlined",
       "url": "https://lock.application.enerqi.tw",
-      "system": true,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer",
+      "system": true
     },
     {
       "name": "壁紙",
-      "icon": "PictureOutlined",
       "description": "管理您的壁紙設定與圖片。",
+      "icon": "PictureOutlined",
       "url": "https://desktop.application.enerqi.tw",
-      "system": true,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer",
+      "system": true
     },
     {
       "name": "設定",
-      "icon": "SettingOutlined",
       "description": "調整系統與應用程式的各項設定。",
+      "icon": "SettingOutlined",
       "url": "https://settings.application.enerqi.tw",
-      "system": true,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer",
+      "system": true
     },
     {
       "name": "檔案總管",
-      "icon": "FolderOpenOutlined",
       "description": "瀏覽與管理您的檔案與資料夾。",
+      "icon": "FolderOpenOutlined",
       "url": "https://folder.application.enerqi.tw",
-      "system": true,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer",
+      "system": true
     },
     {
       "name": "應用程式商店",
-      "icon": "ShopOutlined",
       "description": "瀏覽與安裝各種應用程式。",
+      "icon": "ShopOutlined",
       "url": "https://apps.application.enerqi.tw",
-      "system": true,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer",
+      "system": true
     },
     {
       "name": "訂閱管理",
-      "icon": "CreditCardOutlined",
       "description": "管理您的訂閱與付款資訊。",
+      "icon": "CreditCardOutlined",
       "url": "https://subscription.application.enerqi.tw",
-      "system": true,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer",
+      "system": true
     }
   ],
   "桌面小工具": [
     {
       "name": "通知小工具",
-      "icon": "NotificationOutlined",
       "description": "管理您的通知設定與訊息。",
+      "icon": "NotificationOutlined",
       "url": "https://notification.application.enerqi.tw",
-      "system": false,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer"
     },
     {
       "name": "Dock 小工具",
-      "icon": "BarsOutlined",
       "description": "快速存取常用應用程式與功能。",
+      "icon": "BarsOutlined",
       "url": "https://dock.application.enerqi.tw",
-      "system": true,
-      "rating": 5,
-      "reviews": 1000
+      "group": "developer",
+      "system": true
     }
   ]
 }
