@@ -49,7 +49,8 @@
       "description": "GitHub 是全球最大的程式碼託管平台，提供版本控制和協作功能，讓開發者能夠輕鬆管理和分享程式碼。",
       "icon": "https://github.githubassets.com/favicons/favicon.png",
       "url": "https://github.application.enerqi.tw",
-      "group": "developer"
+      "group": "developer",
+      "commands": ["gh"]
     }
   ],
   "檔案儲存": [
@@ -129,14 +130,16 @@
       "description": "在瀏覽器中執行 Node.js（WebContainer）—— pnpm 安裝相依、啟動開發伺服器。",
       "icon": "CodeOutlined",
       "url": "https://nodejs.application.enerqi.tw",
-      "group": "developer"
+      "group": "developer",
+      "commands": ["pnpm"]
     },
     {
       "name": "Git",
       "description": "版本控制工具 —— 分支、暫存、提交與推送，配合終端機使用。",
       "icon": "BranchesOutlined",
       "url": "https://git.application.enerqi.tw",
-      "group": "developer"
+      "group": "developer",
+      "commands": ["git"]
     },
     {
       "name": "終端機",

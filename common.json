@@ -88,6 +88,7 @@
       "icon": "SettingOutlined",
       "url": "https://settings.application.enerqi.tw",
       "group": "developer",
+      "commands": ["auth"],
       "system": true
     },
     {
@@ -104,6 +105,7 @@
       "icon": "ShopOutlined",
       "url": "https://apps.application.enerqi.tw",
       "group": "developer",
+      "commands": ["app"],
       "system": true
     },
     {
@@ -130,6 +132,16 @@
       "url": "https://dock.application.enerqi.tw",
       "group": "developer",
       "system": true
+    }
+  ],
+  "開發者工具": [
+    {
+      "name": "Curl",
+      "description": "送出 HTTP 請求並檢視回應，透過後端代理避開瀏覽器 CORS 限制。",
+      "icon": "CodeOutlined",
+      "url": "https://curl.application.enerqi.tw",
+      "group": "developer",
+      "commands": ["curl"]
     }
   ]
 }
