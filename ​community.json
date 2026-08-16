@@ -120,6 +120,14 @@
   ],
   "開發者工具": [
     {
+      "name": "Codex",
+      "description": "透過可設定的 AI 代理服務執行程式開發指令。",
+      "icon": "CodeOutlined",
+      "url": "https://codex.application.enerqi.tw",
+      "group": "developer",
+      "commands": ["codex"]
+    },
+    {
       "name": "Node.js",
       "description": "在瀏覽器中執行 Node.js（WebContainer）—— pnpm 安裝相依、啟動開發伺服器。",
       "icon": "CodeOutlined",
